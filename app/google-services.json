@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465106207859",
+    "project_id": "chatveefirebase",
+    "storage_bucket": "chatveefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465106207859:android:8571f98c935a03109b5606",
+        "android_client_info": {
+          "package_name": "com.example.chatveefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465106207859-qe5g5jnlfcf1qe9vuutmrqsmb9p5v2kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcLiNHYVB7BKgpG9ky51kn8FVvLE-3j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465106207859-qe5g5jnlfcf1qe9vuutmrqsmb9p5v2kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
